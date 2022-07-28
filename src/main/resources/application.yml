@@ -1,0 +1,8 @@
+server:
+  port: 8888
+web3:
+  http:
+    url: http://5.9.104.24:8898
+  ws:
+    url: ws://5.9.104.24:8899
+contract-address: '0x4E434787789cBC29e5600F7695aA107821B2b81e'
